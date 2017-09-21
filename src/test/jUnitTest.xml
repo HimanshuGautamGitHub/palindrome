@@ -1,5 +1,5 @@
 <testsuites
-        name="jUnitTest" tests="8" errors="2" failures="2" ignored="2">
+        name="jUnitTest" tests="8">
 
     <testsuite name="LeapYearTest" time="0.0">
         <testcase name="testLeapYear"

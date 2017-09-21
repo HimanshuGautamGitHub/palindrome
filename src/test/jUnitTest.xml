@@ -1,0 +1,12 @@
+<testsuites
+        name="jUnitTest" tests="8" errors="2" failures="2" ignored="2">
+
+    <testsuite name="palindrome.src.test.java.LeapYearTest" time="0.0">
+        <testcase name="testLeapYear"
+                  classname=""
+                  time="0.0" />
+        <testcase name="palindromeCheck_validPalindrome_true"
+                  classname="palindrome.src.test.java.PalindromeTestTest"
+                  time="0.0"/></testsuite>
+
+</testsuites>

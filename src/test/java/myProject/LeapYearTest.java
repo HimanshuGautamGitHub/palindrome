@@ -27,7 +27,8 @@ public class LeapYearTest {
             { 1800, false },
             { 2000, true },
             { 2017, false },
-			{1000,false}
+			{1000,false},
+            {2020,true}
         });
 
 	}
